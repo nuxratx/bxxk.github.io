@@ -1,2 +1,3 @@
-# bxxk.github.io
-This is hosting the book club page 
+# Book Club Website!
+### 📚 📚 📚
+Welcome!  This is hosting the book club on github pages. 
